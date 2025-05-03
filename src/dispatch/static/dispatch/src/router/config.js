@@ -109,7 +109,7 @@ export const protectedRoute = [
       name: "dashboards",
       redirect: { name: "IncidentOverview" },
       meta: {
-        title: "Dashboards",
+        title: "Bashboards",
         group: "dashboard",
         icon: "mdi-monitor-dashboard",
         menu: true,
